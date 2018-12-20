@@ -1,7 +1,7 @@
 # SistemaVentaTickets
 
 Integrantes
-  1. 
+  1. Christian Franco
   2. Luis Macas Lopez
   3. Richard Ruales
   
